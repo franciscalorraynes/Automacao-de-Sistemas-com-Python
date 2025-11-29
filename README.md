@@ -6,7 +6,7 @@ O fluxo cobre desde abrir navegadores, exportar relatórios, calcular indicadore
 
 ---
 
-## 🚀 Fluxo do Projeto
+## Fluxo do Projeto
 
 1. **Abrir o navegador e acessar o Google Drive**
    - O código utiliza `pyautogui` para abrir o Chrome e navegar até a pasta compartilhada no Google Drive.
@@ -27,7 +27,7 @@ O fluxo cobre desde abrir navegadores, exportar relatórios, calcular indicadore
 
 ---
 
-## 📦 Bibliotecas Utilizadas
+## Bibliotecas Utilizadas
 
 - `pyautogui` → Automação de mouse e teclado
 - `time` → Gerenciamento de atrasos
@@ -36,7 +36,7 @@ O fluxo cobre desde abrir navegadores, exportar relatórios, calcular indicadore
 
 ---
 
-## 📂 Estrutura
+##  Estrutura
 
 ```
 .
@@ -67,7 +67,7 @@ O fluxo cobre desde abrir navegadores, exportar relatórios, calcular indicadore
 
 ---
 
-## ⚠️ Observações Importantes
+##  Observações Importantes
 
 - Os cliques (`pyautogui.click(x, y)`) utilizam **coordenadas fixas**, que variam de computador para computador.  
   ➝ Use o trecho `pyautogui.position()` para capturar as posições corretas da sua tela.
@@ -77,10 +77,6 @@ O fluxo cobre desde abrir navegadores, exportar relatórios, calcular indicadore
 - O arquivo `Vendas - Dez.xlsx` deve estar disponível no caminho especificado no notebook.
 
 ---
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para sugerir melhorias e abrir PRs com ajustes ou novas automações.
 
 ---
 
