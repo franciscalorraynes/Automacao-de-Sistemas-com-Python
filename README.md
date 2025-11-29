@@ -46,7 +46,7 @@ O fluxo cobre desde abrir navegadores, exportar relatórios, calcular indicadore
 
 ---
 
-## ⚙️ Como Executar
+##  Como Executar
 
 1. Crie um ambiente virtual (opcional, mas recomendado):
    ```bash
@@ -80,7 +80,5 @@ O fluxo cobre desde abrir navegadores, exportar relatórios, calcular indicadore
 
 ---
 
-## 📜 Licença
 
-Este projeto pode ser utilizado para fins de estudo e adaptação em ambientes corporativos. Defina aqui a licença de sua preferência (ex.: MIT).
 
